@@ -1,3 +1,4 @@
+//Manacher’s Algorithm
 //LPS - Longest Palindromic Substring
 //https://www.spoj.com/problems/LPS/
 #include <bits/stdc++.h>
