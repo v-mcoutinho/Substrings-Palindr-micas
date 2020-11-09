@@ -1,3 +1,4 @@
+//Manacher’s Algorithm
 //NUMOFPAL - Number of Palindromes
 //https://www.spoj.com/problems/NUMOFPAL/
 #include <bits/stdc++.h>
