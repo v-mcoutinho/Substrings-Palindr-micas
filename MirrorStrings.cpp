@@ -1,3 +1,4 @@
+//Manacher’s Algorithm
 //MSUBSTR - Mirror Strings !!!
 //https://www.spoj.com/problems/MSUBSTR/
 #include <bits/stdc++.h>
